@@ -1,3 +1,3 @@
 # counterApp
 
-<img src="demo.png" alt="demo">
+<img src="./demo.png" alt="demo">
